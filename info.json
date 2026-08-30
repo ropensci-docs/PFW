@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "08de7f9b8a3c8c5b1c910d187406403e42d82d41",
+    "author": "Mason Maron <mmaron101@gmail.com>",
+    "time": "2025-09-04T19:23:38Z",
+    "files": 2,
+    "merge": false,
+    "message": "update README\n"
+  },
+  "repo": "https://github.com/ropensci/PFW",
+  "pkg": "PFW",
+  "time": "2026-08-30T07:15:12Z"
+}
